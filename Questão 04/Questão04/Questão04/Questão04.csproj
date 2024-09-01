@@ -52,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Entities\FaturamentoEstados.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
